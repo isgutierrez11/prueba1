@@ -1,6 +1,5 @@
-
 package asistencias;
-import participantes,Participante;
+import participantes.Participante;
 import entrenamientos.Entrenamiento;
 
 public class Asistencia {
