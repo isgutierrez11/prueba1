@@ -1,6 +1,4 @@
-package responsables;
-
-
+package responsables;}
 import participantes.Participante
 import java.time.LocalDate;
 
