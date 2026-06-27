@@ -1,8 +1,8 @@
-package responsables;}
-import participantes.Participante
+package responsables;
+import personas.Persona;
 import java.time.LocalDate;
 
-public class Responsable extends Participante {
+public class Responsable extends Persona{
 private String especialidad;
 private int experiencia;
 
